@@ -12,3 +12,6 @@ NFT Standard new royalty
 1. https://excalidraw.com/#room=78503a7e1fb1554ae61f,rld_8KLIAWyNwYQzB7fDSg ![NFT-royalty ](https://github.com/Roman22022000/NFT-Standard-Challenge/assets/77617514/3a1f39d9-8677-4f28-968b-e964c3a1f321)
 
 2. https://excalidraw.com/#room=14089f033c6bd4ca3ea5,fxI5DO3rXMsTHtfOtf8whQ 
+
+
+"В РАЗРАБОТКЕ" 28.03.24
